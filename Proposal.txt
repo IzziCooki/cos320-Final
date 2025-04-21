@@ -1,0 +1,9 @@
+I was considering building a website about restaurants and cool places in NYC, 
+using the free Yelp API to get reviews, menus, prices, and more. I will also 
+implement a random restaurant/somthing to do picker, and some more features when I think of them.
+
+***************************************************************************************************
+Update: I will use this free Yelp dataset instead so that I do not have to pay for the API access. 
+I will try to host the data on a server so that no one else will have to download the 8 GB of data.
+
+https://business.yelp.com/data/resources/open-dataset/
